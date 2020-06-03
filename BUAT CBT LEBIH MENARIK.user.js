@@ -18,7 +18,7 @@ document.body.innerHTML = document.body.innerHTML.replace('data:image/png;base64
 
 // buat banner atas
 document.body.innerHTML = document.body.innerHTML.replace('<div class="logo top-bottom-gap" style="position:fixed;left:0;top:0;right:0;height:70px;padding:0;background:#5E7D7E"><img src="https://i.imgur.com/DqgZb6S.png" class="gambarcbt"><span class="brand-logo">SMAN 5 BOGOR<span style="font-size:15px;;color:#fff;display:block;">CBTx-V3.0</span></span> </div>',
-'<div class="logo top-bottom-gap" style=" "><img src="https://i.imgur.com/DqgZb6S.png" class="gambarcbt"><span class="brand-logo" style="font-size:20px;;color:#000000;display:block;">SMAN 5 BOGOR<span style="font-size:15px;;color:#000000;display:block;">CBTx-V3.0</span></span> </div>');
+'<div class="logo top-bottom-gap" style=" "><img src="https://i.imgur.com/DqgZb6S.png" class="gambarcbt"><span class="brand-logo" style="font-size:20px;;color:#000000;display:block;">WEEBSINFANSION :V<span style="font-size:15px;;color:#000000;display:block;"> Ver.69 REDUX </span></span> </div>');
 
 // login form ke kiri bawah :v
 document.body.innerHTML = document.body.innerHTML.replace('style="position:fixed;left:0;top:72px;right:0;bottom:0;;overflow-y:auto;"',
