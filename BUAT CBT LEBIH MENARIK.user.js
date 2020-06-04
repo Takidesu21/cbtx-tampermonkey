@@ -23,6 +23,7 @@ document.body.innerHTML = document.body.innerHTML.replace('style="position:fixed
 'style="position:fixed;left: auto;bottom:0;overflow-y:auto;"')
 
 // GANTI DARI BAWAH SINI AJA JIR
+// GANTI YANG DI BAWAH SCRIPT YANG BIRU
 
 // Logo di banner
 document.body.innerHTML = document.body.innerHTML.replace('https://i.imgur.com/DqgZb6S.png',
@@ -35,6 +36,10 @@ document.body.innerHTML = document.body.innerHTML.replace('https://i.imgur.com/x
 // Backgroud Cover
 document.body.innerHTML = document.body.innerHTML.replace('https://i.imgur.com/t25cyVH.png',
 'https://i.imgur.com/t25cyVH.png')
+
+// posisi Login form
+document.body.innerHTML = document.body.innerHTML.replace('style="position:fixed;left: auto;bottom:0;overflow-y:auto;"',
+'style="position:fixed;left:0;top:72px;right:0;bottom:0;;overflow-y:auto;"')
 
 // Kata Katanya
 document.body.innerHTML = document.body.innerHTML.replace('WEEBSINFANSION :V',
